@@ -1,0 +1,125 @@
+.background {
+  background-image: url("../../public/background.png");
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 1024px;
+  margin: 0 auto;
+  padding-top: 116px;
+}
+
+.form-body {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 1160px;
+  height: 792px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.form-left {
+  background: #084b3e;
+  border-radius: 50px 0px 0px 50px;
+  width: 508px;
+  height: 792px;
+}
+
+.logo {
+  margin: 33.5px 0 0 51.5px;
+}
+
+.description {
+  width: 350px;
+  margin: 383px 0 0 54px;
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 39px;
+  line-height: 45px;
+  letter-spacing: -1px;
+  color: #f9e2ba;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  width: 421px;
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 42px;
+  letter-spacing: -0.5px;
+  color: #232323;
+  margin: 55px 0 0 52px;
+}
+
+span {
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 550;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.206977px;
+  color: #e33d5f;
+  margin-left: 7px;
+}
+
+.email,
+.name,
+.password {
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 550;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.206977px;
+  color: #343434;
+  margin: 77px 0 0 52px;
+}
+
+.name,
+.password {
+  margin: 47px 0 0 52px;
+}
+
+.input {
+  width: 450px;
+  border: none;
+  border-bottom: 1px solid #343434;
+  margin: 14px 0 0 52px;
+}
+
+.button {
+  width: 450px;
+  height: 76px;
+  background: #00c38b;
+  border-radius: 20px;
+  border: none;
+  margin: 50px 0 0 52px;
+}
+
+.to-bottom {
+    margin: 129px 0 0 52px;
+}
+
+.bottom-text {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.5px;
+    margin: 5px 0;
+    color: #BDBDBD;
+}
+
+a {
+    color: #BDBDBD;
+}
+
+.green {
+    color: #19B07E;
+}
